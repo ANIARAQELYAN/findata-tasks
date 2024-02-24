@@ -1,0 +1,35 @@
+body {
+    background-color: hotpink;
+}
+
+#div_container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50vh;
+}
+
+button {
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
+button:active {
+    transform: scale(0.7);
+}
+
+#button_blue {
+    background-color: #86A8E7;
+}
+
+#button_red {
+    background-color: #D74C6D;
+}
+
+#button_Green {
+    background-color: #3FACAC;
+}
+
+#button_Black {
+    background-color: #162C2C;
+}

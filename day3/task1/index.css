@@ -1,0 +1,18 @@
+#div_id {
+    display: flex;
+
+    align-items: center; /* Vertically center items */
+    height: 200px; /* Fixed height for the container */
+}
+
+#button_id {
+    background-color: #00c9b7;
+    padding: 100px;
+    font-size: 25px;
+}
+
+#paragraph {
+    font-size: 35px;
+    color: saddlebrown;
+
+}

@@ -1,0 +1,24 @@
+#div_id{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#button_id {
+    background-color: aquamarine;
+    border: none;
+    padding: 40px 60px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+    font-size: 22px;
+    color:darksalmon;
+}
+
+#button_id:active {
+    transform: scale(0.8); /* Move the button back to its original position when clicked */
+    box-shadow: none; /* Remove the shadow effect when clicked */
+}
+#body_id{
+background-color:	#DC143C;
+}
