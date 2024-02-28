@@ -1,0 +1,8 @@
+#item-list li {
+    color: blue;
+}
+
+
+#item-list li:hover {
+    color: red;
+}
